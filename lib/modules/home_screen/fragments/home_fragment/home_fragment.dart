@@ -82,7 +82,7 @@ class _HomeFragmentState extends State<HomeFragment> {
                   const Padding(
                     padding: EdgeInsets.symmetric(horizontal: 16),
                     child: SectionTitle(
-                      label: "Latest News",
+                      label: "Berita Anyar",
                     ),
                   ),
                   const SizedBox(
